@@ -1,0 +1,1 @@
+{"body":"# Oiorest zone exporter\r\nPython script to export the zones from geo.oiorest.dk/takstzoner.json to graphml. One file per operator.\r\n\r\nRequires networkx.\r\n\r\n","note":"Don't delete this file! It's used internally to help with page regeneration.","tagline":"Gets all public transport zones in Denmark from geo.oiorest.dk","google":"","name":"Oiorest-zone-miner"}
