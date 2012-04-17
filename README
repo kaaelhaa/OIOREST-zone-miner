@@ -1,0 +1,4 @@
+Python script to export the zones from geo.oiorest.dk/takstzoner.json to graphml. One file per operator.
+
+Requires networkx.
+
